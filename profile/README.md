@@ -21,4 +21,7 @@
 2025年8月，[tangyuan0821](https://github.com/tangyuan0821)加入该组织
 ## 成员
 
-[kjmjh](https://github.com/kjmjh) [lingbopro](https://github.com/lingbopro) [UndefinedByte](https://github.com/UndefinedByte) [tangyuan0821](https://github.com/tangyuan0821)
+[kjmjh](https://github.com/kjmjh) 
+[lingbopro](https://github.com/lingbopro)
+[UndefinedByte](https://github.com/UndefinedByte) 
+[tangyuan0821](https://github.com/tangyuan0821)
